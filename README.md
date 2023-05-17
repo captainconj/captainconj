@@ -2,7 +2,7 @@
 - 👀 I’m interested in Clojure, OpenGL, fast fata, amazing experiences, and Maui.
 - 🌱 I’m currently learning how to run a company.
 - 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me scott@loomlabs.ai
+- 📫 How to reach me captainconj@loomlabs.ai
 
 <!---
 captainconj/captainconj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
