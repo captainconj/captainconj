@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @captainconj
-- 👀 I’m interested in Clojure, OpenGL, fast fata, amazing experiences, and Maui.
+- 👀 I’m interested in Clojure, OpenGL, Vulkan, fast data, amazing experiences, and Maui.
 - 🌱 I’m currently learning how to run a company.
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me captainconj@loomlabs.ai
